@@ -1,11 +1,11 @@
-About r-catt
-============
+About r-catt-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-catt-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=CATT
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-catt-feedstock/blob/main/LICENSE.txt)
 
 Summary: This function conducts the Cochran-Armitage trend test to a 2 by k contingency table. It will report the test statistic (Z) and p-value.A linear trend in the frequencies will be calculated, because the weights (0,1,2) will be used by default.
 
